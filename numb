@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+class numb
+{
+public static void main(String args[])
+{
+int n;
+Scanner scan=new Scanner(System.in);
+n=scan.next();
+if(a=='a'||e=='e'|| i=='i'||o=='o'||u=='u');
+System.out.println("vowel");
+else
+System.out.println("consonant");
+}
+}
